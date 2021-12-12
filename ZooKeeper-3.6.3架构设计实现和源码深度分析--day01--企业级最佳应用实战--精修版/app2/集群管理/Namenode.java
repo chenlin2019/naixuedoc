@@ -1,8 +1,9 @@
-package com.mazh.nx.zookeeper.app2.集群管理;
+package 集群管理;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.Watcher.Event.EventType;
 import org.apache.zookeeper.ZooDefs.Ids;
+import ;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -26,7 +27,7 @@ public class Namenode {
     public static void main(String[] args) throws Exception {
 
         // TODO_MA 马中华 注释： 第一步：拿zookeeper连接
-        zk = new ZooKeeper(Constant.ConnectStr, Constant.TimeOut, new Watcher() {
+        zk = new ZooKeeper(com.mazh.nx.zookeeper.app2.集群管理.Constant.ConnectStr, Constant.TimeOut, new Watcher() {
             @Override
             public void process(WatchedEvent event) {
 
