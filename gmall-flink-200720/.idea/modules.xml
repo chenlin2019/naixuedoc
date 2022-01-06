@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall-flink-200720.iml" filepath="$PROJECT_DIR$/gmall-flink-200720.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-login-fail/gmall-login-fail.iml" filepath="$PROJECT_DIR$/gmall-login-fail/gmall-login-fail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-market/gmall-market.iml" filepath="$PROJECT_DIR$/gmall-market/gmall-market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-network-flow/gmall-network-flow.iml" filepath="$PROJECT_DIR$/gmall-network-flow/gmall-network-flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-order-pay/gmall-order-pay.iml" filepath="$PROJECT_DIR$/gmall-order-pay/gmall-order-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-user-behavior/gmall-user-behavior.iml" filepath="$PROJECT_DIR$/gmall-user-behavior/gmall-user-behavior.iml" />
+    </modules>
+  </component>
+</project>

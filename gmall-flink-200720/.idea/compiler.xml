@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall-market" />
+        <module name="gmall-login-fail" />
+        <module name="gmall-network-flow" />
+        <module name="gmall-order-pay" />
+        <module name="gmall-user-behavior" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gmall-flink-200720" target="1.8" />
+      <module name="gmall-login-fail" target="1.8" />
+      <module name="gmall-market" target="1.8" />
+      <module name="gmall-network-flow" target="1.8" />
+      <module name="gmall-order-pay" target="1.8" />
+      <module name="gmall-user-behavior" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
